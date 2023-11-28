@@ -8,13 +8,13 @@ Step 1: Cloning the Project
 
 Clone the project repository to get started. 
 
-![](Aspose.Words.a18c0a1f-eb93-436e-a56a-beca753b3aaf.001.png)
+![](./test/Aspose.Words.a18c0a1f-eb93-436e-a56a-beca753b3aaf.001.png)
 
 Step 2: Installing Django 
 
 Install Django to environment to proceed with the setup. 
 
-![](Aspose.Words.a18c0a1f-eb93-436e-a56a-beca753b3aaf.002.png)
+![](./test/Aspose.Words.a18c0a1f-eb93-436e-a56a-beca753b3aaf.002.png)
 
 Step 3: Migra  ng pkgs 
 
