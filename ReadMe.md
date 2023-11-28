@@ -4,19 +4,19 @@ Introducing TextUtils, a dynamic web application crafted on the Django framework
 
 **Manually Deployment:** 
 
-Step 1: Cloning the Project 
+**Step 1: Cloning the Project** 
 
 Clone the project repository to get started. 
 
 ![](./pics/Aspose.Words.a18c0a1f-eb93-436e-a56a-beca753b3aaf.001.png)
 
-Step 2: Installing Django 
+**Step 2: Installing Django** 
 
 Install Django to environment to proceed with the setup. 
 
 ![](./pics/Aspose.Words.a18c0a1f-eb93-436e-a56a-beca753b3aaf.002.png)
 
-Step 3: Migrating pkgs 
+**Step 3: Migrating pkgs** 
 
 Migrate packages for Django to finalize the configuration with following command:
 		$python3 manage.py migrate
