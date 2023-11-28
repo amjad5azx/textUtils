@@ -1,6 +1,6 @@
-﻿Introduc  on: 
+﻿Introduction: 
 
-Introducing TextU  ls, a dynamic web applica  on cra  ed on the Django framework that empowers users to effortlessly manipulate and enhance their text content. This versa  le tool offers a range of essen  al text processing func  ons, including the removal of punctua  ons for cleaner prose, uppercase conversion for impac  ul messaging, new line removal, space removal for concise forma  ng, and a character count feature to keep tabs on textual length. TextU  ls is deployed on AWS seamlessly, u  lizing both manual and automated methods through Docker, ensuring a robust and efficient deployment process. 
+Introducing TextUtils, a dynamic web application crafted on the Django framework that empowers users to effortlessly manipulate and enhance their text content. This versatile tool offers a range of essential text processing functions, including the removal of punctuations for cleaner prose, uppercase conversion for impactful messaging, new line removal, space removal for concise formatting, and a character count feature to keep tabs on textual length. TextUtils is deployed on AWS seamlessly, utilizing both manual and automated methods through Docker, ensuring a robust and efficient deployment process. 
 
 Manually Deployment: 
 
@@ -16,13 +16,13 @@ Install Django to environment to proceed with the setup.
 
 ![](./test/Aspose.Words.a18c0a1f-eb93-436e-a56a-beca753b3aaf.002.png)
 
-Step 3: Migra  ng pkgs 
+Step 3: Migrating pkgs 
 
-Migrate packages for Django to finalize the configura  on with following command: 
+Migrate packages for Django to finalize the configuration with following command:
+		$python3 manage.py migrate
 
-python3 manage.py migrate
 
-![](Aspose.Words.a18c0a1f-eb93-436e-a56a-beca753b3aaf.003.png)
+![](./test/Aspose.Words.a18c0a1f-eb93-436e-a56a-beca753b3aaf.003.png)
 
 Step 4: Running the Server 
 
