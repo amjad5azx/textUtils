@@ -19,7 +19,7 @@ Install Django to environment to proceed with the setup.
 **Step 3: Migrating pkgs** 
 
 Migrate packages for Django to finalize the configuration with following command:
-		$python3 manage.py migrate
+		`python3 manage.py migrate`
 
 
 ![](./pics/Aspose.Words.a18c0a1f-eb93-436e-a56a-beca753b3aaf.003.png)
@@ -28,7 +28,7 @@ Step 4: Running the Server
 
 Launch the server with the following command:  
 
-python3 manage.py runserver 0.0.0.0:8001 
+`python3 manage.py runserver 0.0.0.0:8001`
 
 ![](./pics/Aspose.Words.a18c0a1f-eb93-436e-a56a-beca753b3aaf.004.png)
 
